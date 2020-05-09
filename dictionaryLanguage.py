@@ -1,3 +1,4 @@
+#Guessing Number Game 1.0 by @codingLYNX
 
 '''
 Given the cosmopolitan society we live in, many of us speak several different languages.
