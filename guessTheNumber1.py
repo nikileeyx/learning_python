@@ -1,4 +1,5 @@
-#Guessing Number Game 1.0 by LYNXcode
+#Guessing Number Game 1.0 by @codingLYNX
+#Contact me at t.me/nikileeyyxx
 
 '''
 This code features a guessing number game using a simple function.
