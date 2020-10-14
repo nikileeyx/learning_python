@@ -1,5 +1,6 @@
 
 '''
+LYNXdigital
 This is a simple calculator with two functions. 
 There are three inputs from the user, two operands and one operator
 '''
