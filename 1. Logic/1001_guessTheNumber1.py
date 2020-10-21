@@ -1,7 +1,8 @@
-#Guessing Number Game 1.0 by @codingLYNX
-#Contact me at t.me/nikileeyyxx
 
 '''
+Guessing Number Game 1.0 by @codingLYNX
+Contact me at t.me/nikileeyyxx
+
 This code features a guessing number game using a simple function.
  - Guess a number from 1 to 10
  - Infinite number of guesses
